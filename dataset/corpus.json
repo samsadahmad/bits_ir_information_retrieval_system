@@ -1,0 +1,302 @@
+[
+  {
+    "id": "D01",
+    "title": "Inverted Index note 1",
+    "text": "An inverted index maps each term to the documents containing that term and supports fast candidate generation. This laboratory example connects inverted index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D02",
+    "title": "Tokenization note 1",
+    "text": "Tokenization converts a document into terms; punctuation, hyphens, and numbers require explicit policy decisions. This laboratory example connects tokenization with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D03",
+    "title": "Stop Words note 1",
+    "text": "Stop word removal can reduce index size, but negation and task-specific words should not be removed blindly. This laboratory example connects stop words with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D04",
+    "title": "Stemming note 1",
+    "text": "Stemming uses simple suffix rules to group inflectional variants and is inexpensive for a teaching corpus. This laboratory example connects stemming with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D05",
+    "title": "Lemmatization note 1",
+    "text": "Lemmatization uses vocabulary and morphology to return a base form, often improving linguistic precision. This laboratory example connects lemmatization with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D06",
+    "title": "Phrase Queries note 1",
+    "text": "Phrase queries require terms to occur in an exact order and adjacent positions. This laboratory example connects phrase queries with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D07",
+    "title": "Positional Index note 1",
+    "text": "A positional index stores token positions and verifies phrase alignment without false adjacency matches. This laboratory example connects positional index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D08",
+    "title": "Biword Index note 1",
+    "text": "A biword index stores adjacent term pairs and is compact, though longer phrases need several pair checks. This laboratory example connects biword index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D09",
+    "title": "Bm25 Ranking note 1",
+    "text": "BM25 combines term frequency, document frequency, document length, and saturation to rank results. This laboratory example connects BM25 ranking with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D10",
+    "title": "Precision Recall note 1",
+    "text": "Precision measures relevant returned documents while recall measures relevant documents found. This laboratory example connects precision recall with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D11",
+    "title": "Mean Average Precision note 1",
+    "text": "Mean average precision aggregates precision at relevant ranks across a set of information needs. This laboratory example connects mean average precision with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D12",
+    "title": "Edit Distance note 1",
+    "text": "Levenshtein edit distance counts insertions, deletions, and substitutions between two strings. This laboratory example connects edit distance with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D13",
+    "title": "K Gram Index note 1",
+    "text": "A k-gram index generates character fragments that efficiently filter vocabulary candidates for tolerant retrieval. This laboratory example connects k gram index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D14",
+    "title": "Wildcard Search note 1",
+    "text": "Wildcard search can use a permuterm or k-gram index to resolve a pattern such as comput*. This laboratory example connects wildcard search with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D15",
+    "title": "Spell Correction note 1",
+    "text": "Spelling correction proposes a vocabulary term when a query contains a small typographical error. This laboratory example connects spell correction with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D16",
+    "title": "Document Frequency note 1",
+    "text": "Document frequency is the number of documents containing a term and helps estimate term discrimination. This laboratory example connects document frequency with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D17",
+    "title": "Term Frequency note 1",
+    "text": "Term frequency counts occurrences in one document and contributes to relevance scoring. This laboratory example connects term frequency with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D18",
+    "title": "Tf Idf note 1",
+    "text": "TF-IDF increases weight for frequent terms in one document and decreases weight for terms common to the collection. This laboratory example connects tf idf with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D19",
+    "title": "Query Expansion note 1",
+    "text": "Query expansion adds related terms, synonyms, or spelling variants to improve recall. This laboratory example connects query expansion with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D20",
+    "title": "Relevance Feedback note 1",
+    "text": "Relevance feedback uses user judgements to adjust a query toward useful documents. This laboratory example connects relevance feedback with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D21",
+    "title": "Search Evaluation note 1",
+    "text": "Search evaluation needs a test collection, information needs, relevance judgements, and repeatable metrics. This laboratory example connects search evaluation with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D22",
+    "title": "Crawling note 1",
+    "text": "A crawler discovers documents, respects access policies, and supplies content to an indexing pipeline. This laboratory example connects crawling with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D23",
+    "title": "Document Parsing note 1",
+    "text": "Document parsing extracts text and metadata from formats such as PDF, Word, spreadsheets, and plain text. This laboratory example connects document parsing with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D24",
+    "title": "Metadata Fields note 1",
+    "text": "Metadata fields such as title and author support fielded search and can receive separate ranking weights. This laboratory example connects metadata fields with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D25",
+    "title": "Normalization note 1",
+    "text": "Normalization makes equivalent surface forms comparable before terms enter the dictionary. This laboratory example connects normalization with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D26",
+    "title": "Case Folding note 1",
+    "text": "Case folding merges uppercase and lowercase spellings, improving matching for ordinary English queries. This laboratory example connects case folding with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D27",
+    "title": "Hyphen Handling note 1",
+    "text": "Hyphen handling may split, join, or preserve a compound, and the choice affects phrase and term recall. This laboratory example connects hyphen handling with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D28",
+    "title": "Caching note 1",
+    "text": "Caching repeated query results reduces response latency but requires invalidation when an index changes. This laboratory example connects caching with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D29",
+    "title": "Streamlit Interface note 1",
+    "text": "A Streamlit interface exposes controls and intermediate outputs while keeping the demonstration reproducible. This laboratory example connects streamlit interface with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D30",
+    "title": "Information Need note 1",
+    "text": "An information need describes the user's task and is translated into a query for retrieval. This laboratory example connects information need with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D31",
+    "title": "Inverted Index note 2",
+    "text": "An inverted index maps each term to the documents containing that term and supports fast candidate generation. This laboratory example connects inverted index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D32",
+    "title": "Tokenization note 2",
+    "text": "Tokenization converts a document into terms; punctuation, hyphens, and numbers require explicit policy decisions. This laboratory example connects tokenization with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D33",
+    "title": "Stop Words note 2",
+    "text": "Stop word removal can reduce index size, but negation and task-specific words should not be removed blindly. This laboratory example connects stop words with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D34",
+    "title": "Stemming note 2",
+    "text": "Stemming uses simple suffix rules to group inflectional variants and is inexpensive for a teaching corpus. This laboratory example connects stemming with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D35",
+    "title": "Lemmatization note 2",
+    "text": "Lemmatization uses vocabulary and morphology to return a base form, often improving linguistic precision. This laboratory example connects lemmatization with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D36",
+    "title": "Phrase Queries note 2",
+    "text": "Phrase queries require terms to occur in an exact order and adjacent positions. This laboratory example connects phrase queries with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D37",
+    "title": "Positional Index note 2",
+    "text": "A positional index stores token positions and verifies phrase alignment without false adjacency matches. This laboratory example connects positional index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D38",
+    "title": "Biword Index note 2",
+    "text": "A biword index stores adjacent term pairs and is compact, though longer phrases need several pair checks. This laboratory example connects biword index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D39",
+    "title": "Bm25 Ranking note 2",
+    "text": "BM25 combines term frequency, document frequency, document length, and saturation to rank results. This laboratory example connects BM25 ranking with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D40",
+    "title": "Precision Recall note 2",
+    "text": "Precision measures relevant returned documents while recall measures relevant documents found. This laboratory example connects precision recall with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D41",
+    "title": "Mean Average Precision note 2",
+    "text": "Mean average precision aggregates precision at relevant ranks across a set of information needs. This laboratory example connects mean average precision with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D42",
+    "title": "Edit Distance note 2",
+    "text": "Levenshtein edit distance counts insertions, deletions, and substitutions between two strings. This laboratory example connects edit distance with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D43",
+    "title": "K Gram Index note 2",
+    "text": "A k-gram index generates character fragments that efficiently filter vocabulary candidates for tolerant retrieval. This laboratory example connects k gram index with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D44",
+    "title": "Wildcard Search note 2",
+    "text": "Wildcard search can use a permuterm or k-gram index to resolve a pattern such as comput*. This laboratory example connects wildcard search with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D45",
+    "title": "Spell Correction note 2",
+    "text": "Spelling correction proposes a vocabulary term when a query contains a small typographical error. This laboratory example connects spell correction with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D46",
+    "title": "Document Frequency note 2",
+    "text": "Document frequency is the number of documents containing a term and helps estimate term discrimination. This laboratory example connects document frequency with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D47",
+    "title": "Term Frequency note 2",
+    "text": "Term frequency counts occurrences in one document and contributes to relevance scoring. This laboratory example connects term frequency with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D48",
+    "title": "Tf Idf note 2",
+    "text": "TF-IDF increases weight for frequent terms in one document and decreases weight for terms common to the collection. This laboratory example connects tf idf with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D49",
+    "title": "Query Expansion note 2",
+    "text": "Query expansion adds related terms, synonyms, or spelling variants to improve recall. This laboratory example connects query expansion with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D50",
+    "title": "Relevance Feedback note 2",
+    "text": "Relevance feedback uses user judgements to adjust a query toward useful documents. This laboratory example connects relevance feedback with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D51",
+    "title": "Search Evaluation note 2",
+    "text": "Search evaluation needs a test collection, information needs, relevance judgements, and repeatable metrics. This laboratory example connects search evaluation with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D52",
+    "title": "Crawling note 2",
+    "text": "A crawler discovers documents, respects access policies, and supplies content to an indexing pipeline. This laboratory example connects crawling with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D53",
+    "title": "Document Parsing note 2",
+    "text": "Document parsing extracts text and metadata from formats such as PDF, Word, spreadsheets, and plain text. This laboratory example connects document parsing with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D54",
+    "title": "Metadata Fields note 2",
+    "text": "Metadata fields such as title and author support fielded search and can receive separate ranking weights. This laboratory example connects metadata fields with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D55",
+    "title": "Normalization note 2",
+    "text": "Normalization makes equivalent surface forms comparable before terms enter the dictionary. This laboratory example connects normalization with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D56",
+    "title": "Case Folding note 2",
+    "text": "Case folding merges uppercase and lowercase spellings, improving matching for ordinary English queries. This laboratory example connects case folding with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D57",
+    "title": "Hyphen Handling note 2",
+    "text": "Hyphen handling may split, join, or preserve a compound, and the choice affects phrase and term recall. This laboratory example connects hyphen handling with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D58",
+    "title": "Caching note 2",
+    "text": "Caching repeated query results reduces response latency but requires invalidation when an index changes. This laboratory example connects caching with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D59",
+    "title": "Streamlit Interface note 2",
+    "text": "A Streamlit interface exposes controls and intermediate outputs while keeping the demonstration reproducible. This laboratory example connects streamlit interface with information retrieval, indexing, and transparent experiment design."
+  },
+  {
+    "id": "D60",
+    "title": "Information Need note 2",
+    "text": "An information need describes the user's task and is translated into a query for retrieval. This laboratory example connects information need with information retrieval, indexing, and transparent experiment design."
+  }
+]

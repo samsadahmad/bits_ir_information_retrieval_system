@@ -1,0 +1,80 @@
+:root {
+    --bits-gold: #c69214;
+    --bits-blue: #0089f7;
+    --bits-dark-blue: #003b7a;
+    --bits-cream: #fffdf8;
+    --bits-sidebar: #f6f0e2;
+}
+
+.stApp {
+    background: var(--bits-cream);
+}
+
+[data-testid="stSidebar"] {
+    background: var(--bits-sidebar);
+    border-right: 4px solid var(--bits-blue);
+}
+
+h1,
+h2,
+h3 {
+    color: var(--bits-blue);
+}
+
+.bits-banner {
+    border-top: 8px solid var(--bits-blue);
+    padding: 14px 0 4px;
+}
+
+.metric-card {
+    background: var(--bits-sidebar);
+    padding: 12px;
+    border-left: 5px solid var(--bits-gold);
+}
+
+.ir-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+.ir-table th {
+    background-color: var(--bits-blue) !important;
+    color: #ffffff !important;
+    font-weight: 600;
+    text-align: left;
+}
+
+.ir-table th,
+.ir-table td {
+    border: 1px solid #dedede;
+    padding: 0.45rem 0.6rem;
+}
+
+.ir-table tbody tr:nth-child(even) {
+    background: #f8f9fb;
+}
+
+[data-testid="stTab"][data-selected="true"],
+[data-testid="stTab"][data-selected="true"] p,
+[data-testid="stTab"]:hover,
+[data-testid="stTab"]:hover p,
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"],
+[data-testid="stTabs"] button[role="tab"]:hover,
+[data-baseweb="tab"][aria-selected="true"],
+[data-baseweb="tab"]:hover {
+    color: var(--bits-blue) !important;
+}
+
+[data-testid="stTab"][data-selected="true"] .react-aria-SelectionIndicator,
+[data-testid="stTabs"] [data-baseweb="tab-highlight"],
+[data-testid="stTabs"] [data-baseweb="tab-border"],
+[data-baseweb="tab-highlight"] {
+    background-color: var(--bits-blue) !important;
+}
+
+[data-testid="stCheckbox"] label[data-selected="true"] > span + div,
+[data-testid="stRadioOption"][data-selected="true"] > span + div > div:first-child {
+    background-color: var(--bits-dark-blue) !important;
+    border-color: var(--bits-dark-blue) !important;
+}
