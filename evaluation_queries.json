@@ -1,0 +1,37 @@
+[
+  {
+    "query": "rank",
+    "intent": "Find notes primarily about BM25 ranking.",
+    "relevant_ids": ["D09", "D39"]
+  },
+  {
+    "query": "phrase queries",
+    "intent": "Find notes primarily about phrase queries.",
+    "relevant_ids": ["D06", "D36"]
+  },
+  {
+    "query": "spelling correction",
+    "intent": "Find notes primarily about spelling correction.",
+    "relevant_ids": ["D15", "D45"]
+  },
+  {
+    "query": "document frequencies",
+    "intent": "Find notes primarily about document frequency.",
+    "relevant_ids": ["D16", "D46"]
+  },
+  {
+    "query": "positional indexes",
+    "intent": "Find notes primarily about positional indexes.",
+    "relevant_ids": ["D07", "D37"]
+  },
+  {
+    "query": "stemming",
+    "intent": "Find notes primarily about stemming.",
+    "relevant_ids": ["D04", "D34"]
+  },
+  {
+    "query": "use suffix rules",
+    "intent": "Find notes explaining the use of suffix rules for stemming.",
+    "relevant_ids": ["D04", "D34"]
+  }
+]

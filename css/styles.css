@@ -7,7 +7,7 @@
 }
 
 .stApp {
-    background: var(--bits-cream);
+    background: #ffffff;
 }
 
 [data-testid="stSidebar"] {
@@ -24,6 +24,71 @@ h3 {
 .bits-banner {
     border-top: 8px solid var(--bits-blue);
     padding: 14px 0 4px;
+}
+
+.search-home-spacer {
+    height: 7vh;
+    min-height: 28px;
+}
+
+.search-home-title,
+.search-home-subtitle {
+    text-align: center;
+}
+
+.search-home-title {
+    color: var(--bits-blue);
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 0.25rem;
+    white-space: nowrap;
+}
+
+.search-home-subtitle {
+    color: #5f6368;
+    font-size: 0.95rem;
+    margin: 0.25rem 0 1.2rem;
+}
+
+div[data-testid="stForm"] {
+    border: 0;
+    margin: 0 auto;
+    max-width: 640px;
+    padding: 0;
+    width: 100%;
+}
+
+div[data-testid="stForm"] div[data-testid="stTextInput"] {
+    width: 100%;
+}
+
+div[data-testid="stForm"] div[data-testid="stTextInput"] input {
+    border: 1px solid #dfe1e5;
+    border-radius: 999px;
+    box-shadow: 0 1px 5px rgba(32, 33, 36, 0.18);
+    height: 3.2rem;
+    padding-left: 1.25rem;
+    width: 100%;
+}
+
+div[data-testid="stForm"] div[data-testid="stTextInput"] input:hover,
+div[data-testid="stForm"] div[data-testid="stTextInput"] input:focus {
+    border-color: transparent;
+    box-shadow: 0 2px 8px rgba(32, 33, 36, 0.28);
+}
+
+div[data-testid="stFormSubmitButton"] button {
+    background: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 6px;
+    color: #3c4043;
+    min-width: 6rem;
+    white-space: nowrap;
+}
+
+div[data-testid="stFormSubmitButton"] button:hover {
+    border-color: #dadce0;
+    color: #202124;
 }
 
 .metric-card {

@@ -1,0 +1,5954 @@
+[
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 0
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 31,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characterstics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "4.0.UI1",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 532,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "24.678",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RecordedValue",
+        "Value": 0,
+        "IsEditable": 0,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Offset",
+        "Value": "24.8520",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 533,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "TRUE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Cov",
+        "Value": "2.987",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 22,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "1101",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "11",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "111",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "101",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Deadband",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 25,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinPresentValue",
+        "Value": "-65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 69,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 2,
+      "PointType": 0
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 31,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characterstics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "4.0.UI2",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 532,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "59",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RecordedValue",
+        "Value": 0,
+        "IsEditable": 0,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Offset",
+        "Value": "0.0000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 533,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "TRUE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Cov",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 22,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0101",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "00",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Deadband",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 25,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinPresentValue",
+        "Value": "-65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 69,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 1
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 31,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "42.854",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "SafetyPosition",
+        "Value": "3",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 568,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OpenRunTime",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 1021,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CloseRunTime",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 1020,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;42.8540;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "6",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Hysterisis",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1022,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PwmPeriod",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1017,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "UnderdriveRepeatCount",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1038,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "UnderdriveRepeatTime",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1033,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PowerupSynchronization",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1032,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Synchronization",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1037,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Cov",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 22,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Deadband",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 25,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "11",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "111",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinPresentValue",
+        "Value": "-65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 69,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 2,
+      "PointType": 1
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 31,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "100",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "SafetyPosition",
+        "Value": "3",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 568,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OpenRunTime",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 1021,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CloseRunTime",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 1020,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;100.0000;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "6",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Hysterisis",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1022,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PwmPeriod",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1017,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "UnderdriveRepeatCount",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1038,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "UnderdriveRepeatTime",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1033,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PowerupSynchronization",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1032,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Synchronization",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 1037,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Cov",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 22,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Deadband",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 25,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "00",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinPresentValue",
+        "Value": "-65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 69,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 2
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "44.785",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "TRUE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MappedToModbus",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 538,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;44.7850;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Cov",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 22,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0001",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Deadband",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 25,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "00",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinPresentValue",
+        "Value": "-65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 69,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnrollment",
+        "Value": "4294967295,4294967295,0,0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 649,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnrollment1",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 2,
+      "PointType": 2
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "0",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MappedToModbus",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 538,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Cov",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 22,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0000",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Deadband",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 25,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "00",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinPresentValue",
+        "Value": "-65534",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 69,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnrollment",
+        "Value": "4294967295,4294967295,0,0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 649,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnrollment1",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 3
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 110,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "InactiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 46,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ActiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 4,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "0",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValue",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 6,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Polarity",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 84,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "1100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "110",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ElapsedTimeEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 1
+      },
+      {
+        "Name": "ChangeOfStateCountEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 2
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 2,
+      "PointType": 3
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 110,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "InactiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 46,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ActiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 4,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "0",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValue",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 6,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Polarity",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 84,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ElapsedTimeEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 1
+      },
+      {
+        "Name": "ChangeOfStateCountEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 2
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 4
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "6",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "InactiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 46,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ActiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 4,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "1",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValue",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 6,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Polarity",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 84,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "TRUE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0101",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "SafetyPosition",
+        "Value": "3",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 568,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOnTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 67,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOffTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 66,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 2,
+      "PointType": 4
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "6",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "InactiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 46,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ActiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 4,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "1",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValue",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 6,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Polarity",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 84,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86409",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "SafetyPosition",
+        "Value": "3",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 568,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOnTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 67,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOffTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 66,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 5
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "InactiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 46,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ActiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 4,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MappedToModbus",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 538,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "1",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValue",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 6,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Polarity",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 84,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "TRUE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0001",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "SafetyPosition",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 568,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOnTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 67,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOffTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 66,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ElapsedTimeEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 1
+      },
+      {
+        "Name": "ChangeOfStateCountEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 2
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 2,
+      "PointType": 5
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "InactiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 46,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ActiveText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 4,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MappedToModbus",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 538,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "0",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValue",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 6,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Polarity",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 84,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0000",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "SafetyPosition",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 568,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOnTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 67,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MinOffTime",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 66,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ElapsedTimeEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 1
+      },
+      {
+        "Name": "ChangeOfStateCountEE",
+        "Value": "invalid-array-index",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": true,
+        "ArrayIndex": 2
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 19
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 110,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValues",
+        "Value": "",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 7,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "FaultValues",
+        "Value": "",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 39,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "1",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0000",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NumberOfStates",
+        "Value": "5",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 74,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 23
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TerminalAddress",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "TRUE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PulseRate",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 186,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Scale",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 187,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PreScale",
+        "Value": "(1,1)",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 185,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ValueBeforeChange",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 190,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ValueSet",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 191,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "MaxPresentValue",
+        "Value": "2147483647",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 65,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitMonitoringInterval",
+        "Value": "60",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 182,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0101",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "HighLimit",
+        "Value": "100",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 45,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LowLimit",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 59,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "LimitEnable",
+        "Value": "00",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 52,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnrollment",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 671,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 13
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 110,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValues",
+        "Value": "",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 7,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "FaultValues",
+        "Value": "",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 39,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "1",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "unknown-property",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NumberOfStates",
+        "Value": "3",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 74,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 1,
+      "PointType": 14
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "0",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "6",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 110,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValues",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 7,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "FaultValues",
+        "Value": "unknown-property",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 39,
+        "IsError": true,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "1",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "0100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "86400",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NumberOfStates",
+        "Value": "3",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 74,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  },
+  {
+    "PointEntityCommonData": {
+      "PointId": 0,
+      "ControllerId": 18,
+      "ControllerInstanceNumber": 1281,
+      "PointInstanceId": 6224,
+      "PointType": 19
+    },
+    "ListOfPropertyDetailsModel": [
+      {
+        "Name": "EventState",
+        "Value": "1",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 36,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reliability",
+        "Value": "9",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 103,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StateText",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 110,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AlarmValues",
+        "Value": "3",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 7,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "FaultValues",
+        "Value": "1;4;5",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 39,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PresentValue",
+        "Value": "5",
+        "IsEditable": 2,
+        "Source": 1,
+        "BacnetPropertyId": 85,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "OutOfService",
+        "Value": "FALSE",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 81,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "StatusFlags",
+        "Value": "1100",
+        "IsEditable": 0,
+        "Source": 1,
+        "BacnetPropertyId": 111,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventEnable",
+        "Value": "000",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 35,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "AckedTransitions",
+        "Value": "111",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 0,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TimeDelay",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 113,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "RelinquishDefault",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 104,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PriorityArray",
+        "Value": "NULL;NULL;NULL;NULL;NULL;NULL;NULL;5;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL",
+        "IsEditable": 1,
+        "Source": 1,
+        "BacnetPropertyId": 87,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotificationClass",
+        "Value": "1",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 17,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NumberOfStates",
+        "Value": "5",
+        "IsEditable": 1,
+        "Source": 2,
+        "BacnetPropertyId": 74,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "NotifyType",
+        "Value": "0",
+        "IsEditable": 0,
+        "Source": 2,
+        "BacnetPropertyId": 72,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventTimeStamp",
+        "Value": [
+          "",
+          "",
+          ""
+        ],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointTestHistory",
+        "Value": [],
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Comment",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Reason",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EventInhibit",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "TransitionEvents",
+        "Value": null,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 77,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PointType",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": 79,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "PlantName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerName",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "ControllerInstanceNumber",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Description",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "CheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "WiringCheckoutStatus",
+        "Value": 0,
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "EngineeringUnit",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "DeviceType",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      },
+      {
+        "Name": "Characteristics",
+        "Value": "",
+        "IsEditable": 1,
+        "Source": 0,
+        "BacnetPropertyId": -1,
+        "IsError": false,
+        "ArrayIndex": -1
+      }
+    ]
+  }
+]
